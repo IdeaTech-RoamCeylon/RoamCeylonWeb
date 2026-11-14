@@ -132,7 +132,7 @@ const effectiveDate = 'May 1, 2026'
                 For Local Business Partners (RoamCeylon Admin)
               </h3>
               <ul class="mt-2 list-disc space-y-1.5 pl-4 text-xs leading-relaxed text-slate-600">
-                <li>Business owner name, contact phone, email, and business bank payout details.</li>
+                <li>Business owner name, contact phone, and email.</li>
                 <li>
                   Three-step identity check documents: National ID or Passport, business
                   registration certificate, and a live verification selfie.
@@ -282,10 +282,10 @@ const effectiveDate = 'May 1, 2026'
               <p class="mt-2 text-xs leading-relaxed text-slate-600">
                 Email
                 <a
-                  href="mailto:privacy@roamceylon.com?subject=Account%20Deletion%20Request"
+                  href="mailto:ideatech.project.team@gmail.com?subject=Account%20Deletion%20Request"
                   class="font-semibold text-[#0F3D26] underline"
                 >
-                  privacy@roamceylon.com
+                  ideatech.project.team@gmail.com
                 </a>
                 from your registered email address with the subject
                 <strong>“Account Deletion Request”</strong>.
@@ -347,14 +347,14 @@ const effectiveDate = 'May 1, 2026'
               <p class="text-xs font-semibold text-[#FFD26B] uppercase">Email Support</p>
               <p class="mt-1 flex items-center gap-2">
                 <Mail class="h-4 w-4 text-[#FFD26B]" />
-                <a href="mailto:privacy@roamceylon.com" class="underline hover:text-[#FFD26B]">
-                  privacy@roamceylon.com
+                <a href="mailto:ideatech.project.team@gmail.com" class="underline hover:text-[#FFD26B]">
+                  ideatech.project.team@gmail.com
                 </a>
               </p>
               <p class="mt-1 flex items-center gap-2">
                 <Mail class="h-4 w-4 text-[#FFD26B]" />
-                <a href="mailto:support@roamceylon.com" class="underline hover:text-[#FFD26B]">
-                  support@roamceylon.com
+                <a href="mailto:ideatech.project.team@gmail.com" class="underline hover:text-[#FFD26B]">
+                  ideatech.project.team@gmail.com
                 </a>
               </p>
             </div>
